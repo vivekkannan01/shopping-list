@@ -3,3 +3,7 @@
 - Xbox
 - Batteries
 - Pizza
+- Pencils
+- Pastels
+- Glasses
+- Lightbulbs
